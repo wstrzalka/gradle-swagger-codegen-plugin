@@ -1,4 +1,6 @@
-gradle-swagger-plugin
+### This is not functional code yet 
+
+gradle-swagger-codegen-plugin
 =====================
 
 This a port of kongchen's maven plugin for generating swagger documents.  (See https://github.com/kongchen/swagger-maven-plugin)
